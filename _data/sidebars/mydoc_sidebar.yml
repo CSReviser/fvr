@@ -44,14 +44,13 @@ entries:
       url: /mydoc_support.html
       output: web, pdf
  
-  - title: Overview
+  - title: Chapter Book
     output: web, pdf
     folderitems:
 
-    - title: Get started
-      url: /index.html
+    - title: Cam Jansen mystery series
+      url: /mydoc_cam_jansen.html
       output: web, pdf
-      type: homepage
 
     - title: Introduction
       url: /mydoc_introduction.html
