@@ -13,44 +13,44 @@ Before you get into exploring Jekyll as a potential platform for help content, y
 
 ## Cam Jansen mystery series
 
-No. | Title | Year | Notes
+No. | Title | Publish Date | Notes
 --------|-----------|-----------|-----------
-1 | Cam Jansen and the Mystery of the Stolen Diamonds | (1980) |  | 
-2 | Cam Jansen and the Mystery of the UFO | (1980) |  | 
-3 | Cam Jansen and the Mystery of the Dinosaur Bones | (1981) |  | 
-4 | Cam Jansen and the Mystery of the Television Dog | (1981) |  | 
-5 | Cam Jansen and the Mystery of the Gold Coins | (1982) |  | 
-6 | Cam Jansen and the Mystery of the Babe Ruth Baseball | (1982) |  | 
-7 | Cam Jansen and the Mystery of the Circus Clown | (1983) |  | 
-8 | Cam Jansen and the Mystery of the Monster Movie | (1984) |  | 
-9 | Cam Jansen and the Mystery of the Carnival Prize | (1984) |  | 
-10 | Cam Jansen and the Mystery at the Monkey House | (1985) |  | 
-11 | Cam Jansen and the Mystery of the Stolen Corn Popper | (1986) |  | 
-12 | Cam Jansen and the Mystery of Flight 54 | (1989) |  | 
+1 | Cam Jansen and the Mystery of the Stolen Diamonds | July 22, 2004 |  | 
+2 | Cam Jansen and the Mystery of the UFO | July 22, 2004 |  | 
+3 | Cam Jansen and the Mystery of the Dinosaur Bones | September 01, 1984 |  | 
+4 | Cam Jansen and the Mystery of the Television Dog | July 22, 2004 |  | 
+5 | Cam Jansen and the Mystery of the Gold Coins | July 22, 2004 |  | 
+6 | Cam Jansen and the Mystery of the Babe Ruth Baseball | September 01, 1985 |  | 
+7 | Cam Jansen and the Mystery of the Circus Clown | July 22, 2004 |  | 
+8 | Cam Jansen and the Mystery of the Monster Movie | July 22, 2004 |  | 
+9 | Cam Jansen and the Mystery of the Carnival Prize | July 22, 2004 |  | 
+10 | Cam Jansen and the Mystery at the Monkey House | July 22, 2004 |  | 
+11 | Cam Jansen and the Mystery of the Stolen Corn Popper | July 22, 2004 |  | 
+12 | Cam Jansen and the Mystery of Flight 54 | July 22, 2004 |  | 
 13 | Cam Jansen and the Mystery at the Haunted House | (1992) | | 
-14 | The Cam Jansen Fun Book | (1992) |  | 
-15 | Cam Jansen and the Chocolate Fudge Mystery | (1993) |  | 
-16 | Cam Jansen and the Triceratops Pops Mystery | (1995) |  | 
-17 | Cam Jansen and the Ghostly Mystery | (1996) | | 
-18 | Cam Jansen and the Scary Snake Mystery | (1997) |  | 
-19 | Cam Jansen and the Catnapping Mystery | (1998) |  | 
-20 | Cam Jansen and the Barking Treasure Mystery | (1999) |  | 
-21 | Cam Jansen and the Birthday Mystery | (2000) |  | 
-22 | Cam Jansen and the School Play Mystery | (2001) |  | 
-23 | Cam Jansen and the First Day of School Mystery | (2002) |  | 
-24 | Cam Jansen and the Tennis Trophy Mystery | (2003) |  | 
-25 | Cam Jansen and the Snowy Day Mystery | (2004) |  | 
-26 | Cam Jansen and the Valentine Baby Mystery | (2005) | 25th Anniversary Special | 
-27 | Cam Jansen and the Secret Service Mystery | (2006) |  | 
-28 | Cam Jansen and the Mystery Writer Mystery | (2007) |  | 
-29 | Cam Jansen and the Summer Camp Mysteries | (2007) | three stories | 
-30 | Cam Jansen and the Green School Mystery | (2008) |  | 
-31 | Cam Jansen and the Sports Day Mysteries | (2009) | three stories | 
-32 | Cam Jansen and the Basketball Mystery | (2009) |  | 
-33 | Cam Jansen and the Wedding Cake Mystery | (2010) | |
-34 | Cam Jansen and the Graduation Day Mystery | (2011) |  | 
-35 | Cam Jansen and the Millionaire Mystery | (2012) |  | 
-36 | Cam Jansen and the Spaghetti Max Mystery | (2013) |  | 
-37 | Cam Jansen and the Joke House Mystery | (2014) |  | 
+14 | Cam Jansen and the Chocolate Fudge Mystery | (1993) |  | 
+15 | Cam Jansen and the Triceratops Pops Mystery | (1995) |  | 
+16 | Cam Jansen and the Ghostly Mystery | February 17, 2005 | | 
+17 | Cam Jansen and the Scary Snake Mystery | (1997) |  | 
+18 | Cam Jansen and the Catnapping Mystery | February 17, 2005 |  | 
+19 | Cam Jansen and the Barking Treasure Mystery | (1999) |  | 
+20 | Cam Jansen and the Birthday Mystery | (2000) |  | 
+21 | Cam Jansen and the School Play Mystery | (2001) |  | 
+22 | Cam Jansen and the First Day of School Mystery | (2002) |  | 
+23 | Cam Jansen and the Tennis Trophy Mystery | (2003) |  | 
+24 | Cam Jansen and the Snowy Day Mystery | (2004) |  | 
+25 | Cam Jansen and the Valentine Baby Mystery | December 28, 2006 | 25th Anniversary Special | 
+26 | Cam Jansen and the Secret Service Mystery | March 13, 2008 |  | 
+27 | Cam Jansen and the Mystery Writer Mystery | October 30, 2008 |  | 
+28 | Cam Jansen and the Green School Mystery | September 03, 2009 |  | 
+29 | Cam Jansen and the Basketball Mystery | October 14, 2010 |  | 
+30 | Cam Jansen and the Wedding Cake Mystery | September 15, 2011 | |
+31 | Cam Jansen and the Graduation Day Mystery | October 11, 2012 |  | 
+32 | Cam Jansen and the Millionaire Mystery | September 12, 2013 |  | 
+33 | Cam Jansen and the Spaghetti Max Mystery | October 16, 2014 |  | 
+34 | Cam Jansen and the Joke House Mystery | September 01, 2015 |  | 
+- | The Cam Jansen Fun Book | (1992) |  | 
+- | Cam Jansen and the Summer Camp Mysteries | (2007) | three stories | 
+- | Cam Jansen and the Sports Day Mysteries | (2009) | three stories | 
 
 {% include links.html %}
