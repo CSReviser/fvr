@@ -56,8 +56,8 @@ entries:
       url: /mydoc_dragon_masters.html
       output: web, pdf
 
-    - title: Supported features
-      url: /mydoc_supported_features.html
+    - title: Junie B. Jones series
+      url: /mydoc_junie_b_jones.html
       output: web, pdf
 
     - title: About the theme author
