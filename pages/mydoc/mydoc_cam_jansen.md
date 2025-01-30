@@ -49,8 +49,8 @@ No. | Title | Publish Date | Notes
 32 | Cam Jansen and the Millionaire Mystery | September 12, 2013 |  | 
 33 | Cam Jansen and the Spaghetti Max Mystery | October 16, 2014 |  | 
 34 | Cam Jansen and the Joke House Mystery | September 01, 2015 |  | 
-- | The Cam Jansen Fun Book | (1992) |  | 
-- | Cam Jansen and the Summer Camp Mysteries | (2007) | three stories | 
-- | Cam Jansen and the Sports Day Mysteries | (2009) | three stories | 
+ー | The Cam Jansen Fun Book | (1992) |  | 
+ー | Cam Jansen and the Summer Camp Mysteries | (2007) | three stories | 
+ー | Cam Jansen and the Sports Day Mysteries | (2009) | three stories | 
 
 {% include links.html %}
