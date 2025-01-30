@@ -52,8 +52,8 @@ entries:
       url: /mydoc_cam_jansen.html
       output: web, pdf
 
-    - title: Introduction
-      url: /mydoc_introduction.html
+    - title: Dragon Masters series
+      url: /mydoc_dragon_masters.html
       output: web, pdf
 
     - title: Supported features
