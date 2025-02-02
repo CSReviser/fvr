@@ -118,4 +118,9 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 github: [metadata]
 
 
+search_enabled: true
+search:
+  provider: lunr
+
+
 # Copyright 2021 Google LLC
