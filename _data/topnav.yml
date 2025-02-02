@@ -1,10 +1,10 @@
 ## Topnav single links
 ## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
-topnav:
-- title: Topnav
-  items:
-    - title: GitHub
-      external_url: https://github.com/CSReviser
+#topnav:
+#- title: Topnav
+#  items:
+#    - title: GitHub
+#      external_url: https://github.com/CSReviser
 #    - title: News
 #      url: /news
 
@@ -38,7 +38,6 @@ topnav:
   items:
     - title: 語学講座CS
       external_url: https://csreviser.github.io/CaptureStream2/old/
-    - title: News
-      url: /news
+
 
 # Copyright 2021 Google LLC
