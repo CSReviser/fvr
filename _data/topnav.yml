@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: GitHub
-      external_url: https://github.com/tomjoht/documentation-theme-jekyll
+      external_url: https://github.com/CSReviser
     - title: News
       url: /news
 
@@ -12,10 +12,10 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Jekyll Help
+    - title: 語学講座CS2
       folderitems:
         - title: Jekyll Talk
-          external_url: https://talk.jekyllrb.com
+          external_url: https://csreviser.github.io/CaptureStream2/
         - title: Jekyll documentation
           external_url: http://jekyllrb.com/docs/home/
         - title: Jekyll on Stack Overflow
