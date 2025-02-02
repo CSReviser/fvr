@@ -83,7 +83,7 @@ defaults:
       type: "tooltips"
     values:
       layout: "page"
-#      search: true
+      search: true
       tooltip: true
 
   -
