@@ -36,8 +36,8 @@ topnav_dropdowns:
 topnav:
 - title: Topnav
   items:
-    - title: 語学講座CS
-      external_url: https://csreviser.github.io/CaptureStream2/old/
+    - title: 英語多聴・多読関連リンク
+      external_url: https://csreviser.github.io/CaptureStream2/extensive_reading
 
 
 # Copyright 2021 Google LLC
