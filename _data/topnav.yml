@@ -33,4 +33,12 @@ topnav_dropdowns:
 #        - title: Product 2
 #          url: /p2_landing_page.html
 
+topnav:
+- title: Topnav
+  items:
+    - title: 語学講座CS
+      external_url: https://csreviser.github.io/CaptureStream2/old/
+    - title: News
+      url: /news
+
 # Copyright 2021 Google LLC
